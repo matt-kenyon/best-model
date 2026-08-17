@@ -1,0 +1,4 @@
+interface:
+  display_name: "Best Model"
+  short_description: "Recommend the best model for a task"
+  default_prompt: "Use $best-model to assess this task and recommend the best model and reasoning effort."
