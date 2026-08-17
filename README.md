@@ -4,7 +4,7 @@ A Codex skill that assesses a task or prompt and recommends the best available m
 
 ## Install
 
-Copy this repository's `best-model` directory into your Codex skills directory:
+Clone or copy this repository into your Codex skills directory as `best-model`:
 
 ```text
 $CODEX_HOME/skills/best-model
